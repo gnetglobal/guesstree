@@ -3,7 +3,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-size: 15px;
   
-    background: #060606;
+    background: #00000;
     background: -webkit-linear-gradient(bottom right, #060606, #058AC4);
     background: -moz-linear-gradient(bottom right, #060606, #058AC4);
     background: linear-gradient(to top left, #060606, #058AC4);
@@ -28,7 +28,10 @@ body {
     border-radius: 50%;
   
   }
-
+.pee {
+    text-align: center;
+    font-size: 15px;
+}
 .name {
     font-family: 'Fugaz One', cursive;
     text-align: center;
